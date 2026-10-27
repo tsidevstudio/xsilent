@@ -4,6 +4,10 @@ Privacy-first Android photo, video, PDF and file vault.
 
 Xsilent Vault: Hide Photos is designed around local control, with no required account, no ads and no required cloud storage for normal vault use.
 
+**Languages:**  
+[Deutsch](docs/README-DE.md) · [Español](docs/README-ES.md) · [Français](docs/README-FR.md) · [हिन्दी](docs/README-HI.md)
+
+
 Website: https://tsidevstudio.com/apps/xsilent
 
 Google Play: https://play.google.com/store/apps/details?id=com.xsilent.app
