@@ -7,10 +7,15 @@ Xsilent Vault: Hide Photos is designed around local control, with no required ac
 **Languages:**  
 [Deutsch](docs/README-DE.md) · [Español](docs/README-ES.md) · [Français](docs/README-FR.md) · [हिन्दी](docs/README-HI.md)
 
-
 Website: https://tsidevstudio.com/apps/xsilent
 
 Google Play: https://play.google.com/store/apps/details?id=com.xsilent.app
+
+## Recognition
+
+Xsilent was named **#1 Launch of the Month — Best Digital Launch, October 2026** by Launch Trophies.
+
+[View the verified award](https://launchtrophies.com/cabinet/xsilent)
 
 ## What Xsilent protects
 
