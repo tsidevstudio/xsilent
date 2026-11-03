@@ -13,9 +13,15 @@ Google Play: https://play.google.com/store/apps/details?id=com.xsilent.app
 
 ## Recognition
 
-Xsilent was named **#1 Launch of the Month — Best Digital Launch, October 2026** by Launch Trophies.
+Xsilent has received external recognition from independent launch platforms.
 
-[View the verified award](https://launchtrophies.com/cabinet/xsilent)
+- **#1 Launch of the Month — October 2026**  
+  Launch Trophies  
+  [View the verified award](https://launchtrophies.com/cabinet/xsilent)
+
+- **#1 Product of the Week — Week 44, 2026**  
+  Best Digital Launch  
+  [View the official award](https://bestdigitallaunch.com/launch/xsilent/awards/lotw1-2026-10-26)
 
 ## What Xsilent protects
 
