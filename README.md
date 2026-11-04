@@ -1,15 +1,14 @@
 # Xsilent Vault: Hide Photos
 
-Privacy-first Android photo, video, PDF and file vault.
+**Privacy-first Android photo, video, PDF and file vault.**
 
 Xsilent Vault: Hide Photos is designed around local control, with no required account, no ads and no required cloud storage for normal vault use.
 
 **Languages:**  
 [Deutsch](docs/README-DE.md) · [Español](docs/README-ES.md) · [Français](docs/README-FR.md) · [हिन्दी](docs/README-HI.md)
 
-Website: https://tsidevstudio.com/apps/xsilent
-
-Google Play: https://play.google.com/store/apps/details?id=com.xsilent.app
+**Website:** https://tsidevstudio.com/apps/xsilent  
+**Google Play:** https://play.google.com/store/apps/details?id=com.xsilent.app
 
 ## Recognition
 
@@ -33,15 +32,57 @@ Xsilent has received external recognition from independent launch platforms.
 ## Privacy-focused features
 
 - PIN-protected vault
-- Supported biometric access
-- Decoy PIN
-- Encrypted backup
+- Fake PIN that opens a separate decoy vault
+- Encrypted backup and restore
 - Encrypted Trash
 - Private PDF viewing
+- Android system Photo Picker
 - Clean Share privacy tools
 - Quick Lock and automatic locking
+- Supported biometric access
 - Screenshot and screen-recording protection where supported
 - Local-first operation
+
+## Free vs Lifetime
+
+Xsilent is free to install, with no account, ads or subscription required.
+
+### Free
+
+- 30 free imports in the main vault
+- 30 independent free imports in the decoy vault
+- Up to 10 files per import batch
+- Fake PIN and decoy vault included
+- Encrypted backup and restore
+- Encrypted Trash
+- Private PDF viewing
+- PIN protection, Quick Lock and automatic locking
+- No time limit
+
+After the free import allowance is used, existing files remain accessible. You can continue viewing, sharing, exporting, deleting, backing up and restoring your files.
+
+Deleting files does not restore consumed free imports.
+
+### Lifetime — one-time purchase
+
+- Unlimited total imports
+- Up to 20 files per import batch
+- Hidden fingerprint unlock
+- Clean Share
+- Everything included in Free
+- No subscription or recurring fees
+
+The exact local price is displayed by Google Play before purchase.
+
+## Your files, your choice
+
+Xsilent uses Android's system Photo Picker to select photos and videos, and the system document picker for supported documents.
+
+Xsilent does not require access to your entire photo gallery. It processes the files you explicitly choose or share.
+
+Imported files are saved as encrypted copies inside the vault.
+
+**The original files remain in your Gallery or their original location.** If you want to hide them there as well, delete the originals manually after confirming that the encrypted copies were imported successfully.
 
 ## Privacy model
 
@@ -50,13 +91,14 @@ Xsilent is designed to reduce unnecessary external dependence during normal priv
 - No required Xsilent account
 - No ads
 - No required cloud storage
+- No broad photo-gallery access permission
 - Local-first operation
 - User-controlled encrypted backup
 
 ## Public documentation
 
 | Document | Purpose |
-| --- | --- |
+|---|---|
 | [Getting Started](docs/getting-started.md) | Basic setup and public usage guidance |
 | [Privacy Features](docs/privacy-features.md) | High-level explanation of privacy-facing features |
 | [Encrypted Backup](docs/encrypted-backup.md) | Safe public backup guidance |
