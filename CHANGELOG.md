@@ -6,6 +6,38 @@ It intentionally does not document internal architecture, private implementation
 
 ## 2026
 
+### November
+
+#### Xsilent 2.4.7 (23) — Privacy and Import Improvements
+
+**Android Photo Picker**
+- Introduced Android's system Photo Picker for selecting photos and videos.
+- Removed the need for broad photo-gallery access permissions.
+- Continued support for importing PDFs and supported documents through Android's system file picker.
+- Photos, videos and supported files are imported as encrypted copies.
+- Original files remain in their Gallery or original location and are not automatically deleted.
+
+**Free and Lifetime**
+- Introduced 30 free imports in the main vault and 30 independent free imports in the decoy vault.
+- Free users can import up to 10 files per batch.
+- Lifetime users can import up to 20 files per batch, with unlimited total imports.
+- Free imports have no time limit.
+- Existing files remain accessible after the free import allowance is used.
+- Deleting files does not restore consumed free imports.
+- Fake PIN, encrypted backup and restore, encrypted Trash and private PDF viewing remain available in Free.
+
+**Backup and Recovery**
+- Improved recovery behavior for encrypted backups.
+- Full recovery into an empty vault is not blocked by the free import allowance.
+- Restoring additional files into a non-empty vault follows the remaining Free import allowance.
+- Existing files remain accessible after the import allowance is exhausted.
+
+**Privacy and Usability**
+- Improved navigation when returning from full-screen media viewers.
+- Improved privacy when returning to Xsilent from the background.
+- Improved import confirmation messages and guidance about original Gallery files.
+- Additional stability and reliability improvements.
+
 ### October
 
 - Introduced the current Free and Lifetime access model.
